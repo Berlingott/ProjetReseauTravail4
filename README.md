@@ -2,7 +2,7 @@
 ## Participants
 
 * Simon Duchesne - DUCS20069507
-* Alexandre Bourdarie -
+* Alexandre Bourdarie - BOUA28070007
 
 ## Guide d'utilisation
 
