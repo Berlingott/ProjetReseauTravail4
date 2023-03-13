@@ -3,6 +3,7 @@
 
 * Simon Duchesne - DUCS20069507
 * Alexandre Bourdarie - BOUA28070007
+*	Jérôme Baldo – BALJ17058609
 
 ## Guide d'utilisation
 
